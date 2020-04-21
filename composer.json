@@ -1,7 +1,7 @@
 {
     "name": "checkpointemail/checkpoint-php",
-    "description": "A PHP wrapper for Checkpoint.email API",
-    "keywords": ["checkpoint.email","bounce","email check","test email", "validate email"],
+    "description": "Uma Biblioteca PHP para uso em Checkpoint.email API",
+    "keywords": ["checkpoint.email","bounce","email"],
     "license": "GPL-3.0-or-later",
     "authors": [
         {
