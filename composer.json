@@ -1,0 +1,21 @@
+{
+    "name": "CheckpointEmail/checkpoint-php",
+    "description": "A PHP wrapper for Checkpoint.email API",
+    "keywords": ["checkpoint.email","bounce","email check","test email", "validate email"],
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Angel Junior",
+            "email": "falecom@angeljunior.com.br"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "CheckpointAPI\\": "src/"
+        }
+    }
+}
