@@ -3,12 +3,12 @@
 
 ### Installation
 ```
-composer require angeljunior/checkpoint.email
+composer require checkpointemail/checkpoint-php
 ```
 
 ### Initialization
 ```
-use checkpointemail/Checkpoint-php;
+use checkpointemail/checkpointPHP;
 
 $CheckpointEmail = new CheckpointEmail('YOUR-API-KEY');
 ```
