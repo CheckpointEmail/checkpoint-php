@@ -41,7 +41,7 @@ class CheckpointEmail {
 
 
 
-    private function verify($email){
+    public function verify($email){
 
         $_url = $this->_api . '/email-verifier'; 
 

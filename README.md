@@ -8,7 +8,7 @@ composer require checkpointemail/checkpoint-php
 
 ### Initialization
 ```
-use checkpointemail/checkpointPHP;
+use CheckpointPHP\CheckpointEmail;
 
 $CheckpointEmail = new CheckpointEmail('YOUR-API-KEY');
 ```
