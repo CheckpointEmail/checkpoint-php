@@ -40,7 +40,11 @@ class CheckpointEmail {
     }
 
 
-
+    /**
+    *
+    * @var string
+    *          email
+    **/
     public function verify($email){
 
         $_url = $this->_api . '/email-verifier'; 
