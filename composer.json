@@ -1,5 +1,5 @@
 {
-    "name": "checkpointemail/checkpoint-php",
+    "name": "checkpointemail/checkpointphp",
     "description": "Uma Biblioteca PHP para uso em Checkpoint.email API",
     "keywords": ["checkpoint.email","bounce","email"],
     "license": "GPL-3.0-or-later",
