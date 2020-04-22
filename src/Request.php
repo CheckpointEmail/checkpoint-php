@@ -7,7 +7,7 @@ class Request
     /**
      * The Checkpoint class instance we belong to.
      *
-     * @var \angeljunior\Checkpoint
+     * @var \CheckpointPHP\CheckpointEmail
      */
     protected $_parent;
  
@@ -26,7 +26,7 @@ class Request
     private $_debug = false;
 
     public function __construct(
-        Checkpoint $parent,
+        CheckpointEmail $parent,
         $url)
     {
         $this->_userAgent =  'Checkpoint/3.0 (PHP-SDK)';

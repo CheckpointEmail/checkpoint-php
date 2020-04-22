@@ -51,7 +51,7 @@ class CheckpointEmail {
 
         $_request = $this->request($_url)
                             ->addHeader('check-key', $this->_key)
-                            ->addParan('email', $email)
+                            ->addParam('email', $email)
                             ->getResponse();
 
 
